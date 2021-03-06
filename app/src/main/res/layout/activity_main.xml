@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/rollDices"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="@string/roll"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="504dp" />
+
+    <ImageView
+        android:id="@+id/image11"
+        android:layout_width="160dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="210dp"
+        android:contentDescription="@string/app_name"
+        tools:srcCompat="@drawable/dice_1" />
+
+    <ImageView
+        android:id="@+id/image22"
+        android:layout_width="160dp"
+        android:layout_height="200dp"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="210dp"
+        android:contentDescription="@string/app_name"
+        tools:srcCompat="@drawable/dice_5" />
+
+
+</android.support.constraint.ConstraintLayout>
