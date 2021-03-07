@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Total7</string>
     <string name="roll">Roll</string>
+    <string name="status">TextView</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
 </resources>
