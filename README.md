@@ -6,4 +6,8 @@ Theme :  if the total sum is 7 when two dices are rolled then it's a win
 
 Inspiration : run bts
 
-(images/Initial.png)
+[Initial test](images/Initial.png)
+
+[Lose case](images/Lose.png)
+
+[Won case](images/Won.png)
