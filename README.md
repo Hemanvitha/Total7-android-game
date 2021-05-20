@@ -10,4 +10,4 @@ Inspiration : run bts
 
 [Lose case](images/Lose.png)
 
-[Won case](images/Won.png)
+[Won case](images/Win.png)
